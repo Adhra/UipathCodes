@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge UiPath automation platform drive AI tran",
+  "Type": "Screen",
+  "Id": "78FNgBqzX0OFMBD42ihuww",
+  "Reference": "EjS5TnqmJU-JgXDbls5pqg/78FNgBqzX0OFMBD42ihuww",
+  "ParentRef": "EjS5TnqmJU-JgXDbls5pqg/_mS2AZsnnkWDr8Xr4trv9g",
+  "Created": "2025-01-22T05:05:29.8291194Z",
+  "Updated": "2025-01-22T05:05:29.8291194Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

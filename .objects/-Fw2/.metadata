@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge Mail - Adhraa Al Mussalami - Outlook",
+  "Type": "App",
+  "Id": "-Fw2YIG-vEarcBfsqyedaA",
+  "Reference": "EjS5TnqmJU-JgXDbls5pqg/-Fw2YIG-vEarcBfsqyedaA",
+  "Created": "2025-01-22T06:12:15.5420826Z",
+  "Updated": "2025-01-22T06:12:15.5420826Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

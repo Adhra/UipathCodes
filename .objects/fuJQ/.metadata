@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge Google",
+  "Type": "App",
+  "Id": "fuJQmrFP9EuhhG6AhT2Ufw",
+  "Reference": "EjS5TnqmJU-JgXDbls5pqg/fuJQmrFP9EuhhG6AhT2Ufw",
+  "Created": "2025-01-22T04:51:30.5051425Z",
+  "Updated": "2025-01-22T04:51:30.5051425Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

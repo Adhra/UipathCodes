@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Mail - Adhraa Al Mussalami - Outlook",
+  "Type": "Screen",
+  "Id": "H64uDVQVSkaSva6XR3QA5w",
+  "Reference": "EjS5TnqmJU-JgXDbls5pqg/H64uDVQVSkaSva6XR3QA5w",
+  "ParentRef": "EjS5TnqmJU-JgXDbls5pqg/GDZpJoEoH0SXf1e9XTcy-g",
+  "Created": "2025-01-22T06:12:15.6052166Z",
+  "Updated": "2025-01-22T06:12:15.6052166Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

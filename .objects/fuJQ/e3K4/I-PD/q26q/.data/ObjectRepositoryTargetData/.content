@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Oop5rehmMUe871LfT6VzJQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com" CVScreenId="a5950445-a6ac-4822-81d9-a5225b4817cf" CvElementArea="398, 292, 578, 51" CvType="InputBox" DesignTimeRectangle="447, 295, 443, 46" DesignTimeScaleFactor="1" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='APjFqb' tag='TEXTAREA' type='' class='gLFyf' aaname='Search' /&gt;" Guid="1a72b1e4-744b-45ad-8caf-765dfc9c23d7" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Google' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="a5950445-a6ac-4822-81d9-a5225b4817cf" CvElementArea="398, 292, 578, 51" CvType="InputBox" DesignTimeRectangle="397, 292, 578, 52" ElementType="InputBox" Guid="4204ac56-f4fe-4066-b47e-2b69661d7da8" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b7a8a6ebe8cd051cb59ea75a948fbedb.png" xmlns="">03T_APbMP-EKIboHm3DDzOA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

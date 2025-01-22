@@ -1,0 +1,13 @@
+﻿{
+  "Name": "HeadsTails",
+  "Type": "Element",
+  "Id": "FOjOdaJLSkmQsiIuVNLQjg",
+  "Reference": "EjS5TnqmJU-JgXDbls5pqg/FOjOdaJLSkmQsiIuVNLQjg",
+  "ParentRef": "EjS5TnqmJU-JgXDbls5pqg/aW8EBFfVYkeIQXbjUnrAWg",
+  "Created": "2025-01-22T04:54:44.1504733Z",
+  "Updated": "2025-01-22T04:54:44.1504733Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

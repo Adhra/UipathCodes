@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="VQg513cZZk-NnxMge89omQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" CVScreenId="2a64a97f-51bc-4ace-bf16-71b8b339a0a9" CvTextArea="494, 515, 48, 15" CvTextArgument="Heads" CvType="Text" DesignTimeRectangle="193, 336, 650, 205" DesignTimeScaleFactor="1" FuzzySelectorArgument="&lt;webctrl class='QtZxxe' parentid='ixcYae' tag='DIV' type='' aaname='' check:innerText='Heads&amp;#xA;Tails' /&gt;" Guid="a6dd831a-3eee-4cd9-843c-fc7db3e281d7" ScopeSelectorArgument="&lt;html app='msedge.exe' title='flip a coin - Google Search' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="e71a5ed346a90f72d6aeeac0a576afff.png" xmlns="">0BZnMqcQRbky2PeH68ptxTA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="wvVSl-8LDEep-yeoMiD_oA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" CVScreenId="8bf7111e-9a6e-4698-8095-cd187fbf4c2f" CvTextArea="480, 558, 77, 13" CvTextArgument="FLIP AGAIN" CvType="Text" DesignTimeRectangle="193, 541, 650, 48" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Flip Again' aria-role='button' class='kIGsIe' parentid='ixcYae' tag='DIV' type='' check:innerText='FLIP AGAIN' /&gt;" Guid="52ea352e-b4e1-4b84-b89e-efe408d5eb04" ScopeSelectorArgument="&lt;html app='msedge.exe' title='flip a coin - Google Search' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="def09b43a426792ef9db02ea903c558c.png" xmlns="">0UoMqOtcC40il99NEESpyFw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
